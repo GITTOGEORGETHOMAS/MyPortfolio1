@@ -1,0 +1,14 @@
+1)Were you able to access files from the terminal window?
+Yes
+2)What file did you access?
+A)present working directory (pwd)
+3) How did you customize your terminal window?
+a)by changing color of background using options of gitbash terminal windows.
+4)to show present directory?
+A)pwd
+5)to change the directory to desktop?
+A)cd Desktop
+6)create a folder name senthil?
+A)mkdir Senthil.
+7)to come out from last directory?
+A)cd ..
